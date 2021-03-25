@@ -1,0 +1,13 @@
+.message_guestCard{
+    padding:10px;
+    margin:10px;
+    width:fit-content;
+
+}
+.message_userCard{
+    margin-left:auto;
+    color:white !important;
+    text-align: left;
+    width:fit-content;
+    background-color: blueviolet !important;
+}
