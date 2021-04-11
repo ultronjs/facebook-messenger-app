@@ -50,7 +50,7 @@ function App() {
             <Input className='app_input' placeholder="Enter a message..." value={input} onChange={event => onChangeHandler(event)} />
           <IconButton className='app_iconButton' variant='contained' color='primary' type="submit" disabled={!input} onClick={sendMessage}>
               <SendIcon />
-           </IconButton>ff
+           </IconButton>
         </FormControl>
       </form>
       
